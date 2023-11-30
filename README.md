@@ -67,5 +67,5 @@ Como usuário, quero receber notificações em tempo real sobre reconhecimentos 
 
 História 10- Feedback Pós-Recompensa:
 Como colaborador, quero ter a oportunidade de fornecer feedback após resgatar uma recompensa, permitindo aprimoramentos contínuos no sistema.
-6 ) jira software
+6 ) jira software: https://softwarebrasilian.atlassian.net/jira/software/c/projects/IN/boards/2
 7 ) agora
